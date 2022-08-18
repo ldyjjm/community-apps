@@ -11,8 +11,8 @@ PK-GAME可以适用于声网Netless互动白板的插件，可以为老师，学
 
 2. 将本仓库clone到本地并进入根目录
     ```
-    git clone https://github.com/CorpDreams/app-midi-board.git
-    cd app-midi-board
+    git clone https://github.com/ldyjjm/community-apps.git
+    cd community-apps
     ```
 
 3. 复制根目录下的`.env.example`并重命名为`.env`后，分别填写文件中的`VITE_APPID`, `VITE_ROOM_UUID` 和 `VITE_ROOM_TOKEN`为刚刚获取的临时环境
